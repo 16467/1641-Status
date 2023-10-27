@@ -3,12 +3,15 @@ owner: 164-life # Your GitHub organization or username, where this repository li
 repo: 1641-status # The name of this repository
 
 sites:
-  - name: Renekey
+  - name: Re:nekey
     url: https://renekey.blue
-  - name: Renekey-Lite
+    icon: https://raw.githubusercontent.com/1641project/Renekey/Fork_Develop/packages/frontend/assets/about-icon.png
+  - name: Re:nekey Lite
     url: https://lite.renekey.blue
-  - name: Renedon
+    icon: https://raw.githubusercontent.com/1641project/Renekey/Fork_Develop/packages/frontend/assets/about-icon.png
+  - name: Re:nedon
     url: https://renedon.red
+    icon: https://raw.githubusercontent.com/1641project/renedon/Fork_Develop/app/javascript/icons/android-chrome-512x512.png
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
