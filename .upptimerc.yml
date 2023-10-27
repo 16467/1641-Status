@@ -16,8 +16,8 @@ status-website:
   cname: status.1641.ltd
   # baseUrl: /your-repo-name
   logoUrl: https://avatars.githubusercontent.com/u/147372151?s=512&v=4
-  name: 1641 Status
-  introTitle: "1641 Status"
+  name: 1641-Status
+  introTitle: "1641-Status"
   introMessage: 1641projectのStatusです。
   navbar:
     - title: Status
