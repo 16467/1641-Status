@@ -5,7 +5,7 @@ repo: status # The name of this repository
 sites:
   - name: Renekey
     url: https://renekey.blue
-  - name: Renekey Lite
+  - name: Renekey-Lite
     url: https://lite.renekey.blue
   - name: Renedon
     url: https://renedon.red
